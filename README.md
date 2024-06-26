@@ -12,4 +12,4 @@ The companies are interested in answering two focus questions:
   - There is significant difference in conversion rate for the ad shown in different days and in different hour.
   - Further tests for normality and difference in variance were conducted using shapiro and levene test respectively.
  
-#### Find the link to the project attached [here]()
+#### Find the link to the project attached [here](https://github.com/victorsomadina/Market-Ads-Analysis/blob/main/Market%20ads%20analysis.ipynb)
